@@ -1,5 +1,5 @@
 # RevealJS_demo
-- [デモサイト](https://shimajima-eiji.github.io/RevealJS_demo)
+- [デモページ](https://shimajima-eiji.github.io/RevealJS_demo/sample.html)
 - [ソースコード](https://github.com/shimajima-eiji/RevealJS_demo)
 
 ## 閲覧できない環境について
@@ -30,3 +30,13 @@ revealJSはいろいろな方法で使われるが、環境によっては動い
 - 想定では階層を分けて`index.html`を置く運用を想定しているが、階層化しなくてもファイルをリネームして配置してもきちんと参照できる。
 
 よく考えれば、ただのHTMLファイルでしかないので、通常のHTMLのルールに則っている。
+
+## RevealJSページの埋め込みについて
+内容が内容なので、Webサイトに組み込みたいシーンは多い。
+よく使われるのが
+
+- iframe
+- object
+
+のどちらかのタグだろう。
+どちらでも問題ないことを確認しているので、好みでつけて良い。
