@@ -1,5 +1,5 @@
 # RevealJS_demo
-- [デモページ](https://shimajima-eiji.github.io/RevealJS_demo)
+- [デモページ](https://shimajima-eiji.github.io/RevealJS_demo/sample.html)
 - [ソースコード](https://github.com/shimajima-eiji/RevealJS_demo)
 
 ## 閲覧できない環境について
