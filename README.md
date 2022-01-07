@@ -40,3 +40,11 @@ revealJSはいろいろな方法で使われるが、環境によっては動い
 
 のどちらかのタグだろう。
 どちらでも問題ないことを確認しているので、好みでつけて良い。
+
+## Github Pagesのテーマと共存できるか
+できた。
+
+- [トップページ](https://shimajima-eiji.github.io/RevealJS_demo): config.ymlが適用されている
+- [デモページ](https://shimajima-eiji.github.io/RevealJS_demo/sample.html): RevealJSが適用されている
+
+導入時はBranch protection rulesを設定している場合は組み込みに苦戦するので、一時的に無効化した方が楽。
