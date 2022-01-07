@@ -1,7 +1,9 @@
 # RevealJS_demo
+- [デモサイト](https://shimajima-eiji.github.io/RevealJS_demo)
+- [ソースコード](https://github.com/shimajima-eiji/RevealJS_demo)
 
 ## 閲覧できない環境について
-同じchromium系のブラウザでも見れたり見れなかったりしたので、閲覧環境に指定がある可能性が高い。  
+同じchromium系のブラウザでも見れたり見れなかったりしたので、閲覧環境に指定がある可能性が高い。
 おそらく拡張機能？か何かの都合でうまく表示できなくなっている事があると考えられる。
 
 ## 作り方
@@ -17,7 +19,7 @@
 - [参考](https://zatsugaku-engineer.com/html-css-javascript/reveal-js)
 
 ## 注意
-revealJSはいろいろな方法で使われるが、環境によっては動いたり動かなかったりする。  
+revealJSはいろいろな方法で使われるが、環境によっては動いたり動かなかったりする。
 たとえば、当方の環境ではreveal-ckはうまく使えなかったため、作り方の方法で作成している。
 
 ## ファイル解説
