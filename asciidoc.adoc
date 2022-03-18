@@ -1,0 +1,66 @@
+= AsciiDocプラグインで作るHTML
+
+== プレビューとかスライド作成はAsciiDoc Slidesを使用
+
+ピュアMDと比較:: 表現の幅が広い
+
+```
+let source = "OK"
+```
+
+=== スクロールの向き
+```
+== 横スライド
+
+=== 縦スライド
+```
+
+== テーブル
+
+.テーブルタイトル
+[options="header"]
+|=======================
+|Col 1|Col 2      |Col 3
+|1    |Item 1     |a
+|2    |Item 2     |b
+|3    |Item 3     |c
+|=======================
+
+=== テーブル
+
+```
+.テーブルタイトル
+[options="header"]
+|=======================
+|Col 1|Col 2      |Col 3
+|1    |Item 1     |a
+|2    |Item 2     |b
+|3    |Item 3     |c
+|=======================
+```
+
+- テーブルタイトルとかオプションは省略可
+- ピュアMDのテーブル記法は使えない
+
+=== 色々な書き方とスピーカーノート
+
+[.notes]
+--
+ピュアテキストを貼り付けたり
+
+* tell anecdote
+* make a point
+
+リスト記法とか使える
+--
+
+Sキーでスピーカーノート
+
+1. X^2^
+1. X~2~
+1. *bold*
+1. pass:[<span style="color:#ff0000">あああ</span>]
+
+== 参考
+- https://qiita.com/xmeta/items/de667a8b8a0f982e123a
+- https://docs.asciidoctor.org/reveal.js-converter/latest/
