@@ -11,7 +11,10 @@ title: "デモスライド"
 ---
 
 ## 追加プラグインはなし
-- <span style="color:#0ff">文字色を変える</span>
+- <span style="color:#0ff">exportディレクトリが作られる</span>
+- ファイル名はindex.htmlで固定（要リネーム）
+
+この辺りの使用感はasciidocが優秀
 
 --
 
